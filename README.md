@@ -1,4 +1,4 @@
-# Contentstack Venus Component Library
+# Alternative code to make the Contentstack Venus Component Library pass dependency tests and work with React 18
 
 The Venus React component library provides a comprehensive collection of Contentstack’s UI components which can be used to quickly build UI Extensions and Contentstack-based applications.
 
